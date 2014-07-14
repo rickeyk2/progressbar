@@ -1,0 +1,1 @@
+<cffile action = "uploadAll" destination = "#ExpandPath('..\uploads\')#" nameConflict = "MakeUnique">
